@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.String[]">
+    <Item>PowerUps\Sonic.png</Item>
+    <Item>PowerUps\Shield.png</Item>
+    <Item>PowerUps\Nuke.png</Item>
+    <Item>PowerUps\FastFire.png</Item>
+    <Item>PowerUps\Heavy.png</Item>
+  </Asset>
+</XnaContent>

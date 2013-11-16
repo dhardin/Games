@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.String[]">
+    <Item>Enemies\Level Type\Temperate\Ranged1.png</Item>
+    <Item>Enemies\Level Type\Temperate\Ranged1a.png</Item>
+    <Item>Enemies\Level Type\Temperate\Ranged2.png</Item>
+    <Item>Enemies\Level Type\Temperate\Ranged3.png</Item>
+    <Item>Enemies\Level Type\Temperate\Chase1.png</Item>
+    <Item>Enemies\Level Type\Temperate\Chase2.png</Item>
+    <Item>Enemies\Level Type\Temperate\Chase3.png</Item>
+  </Asset>
+</XnaContent>

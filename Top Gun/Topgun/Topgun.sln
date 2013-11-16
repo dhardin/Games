@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topgun", "Topgun\Topgun\Topgun.csproj", "{BD337534-FD8F-4ABD-B4A7-D4C5A126B393}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TopgunContent", "Topgun\TopgunContent\TopgunContent.contentproj", "{147DD8C2-DA3F-4E25-8AAA-98134A2F27FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "..\Engine\Engine\Engine.csproj", "{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPipeline", "..\Engine\SpriteSheetPipeline\SpriteSheetPipeline.csproj", "{25146084-89AA-4A55-8D32-E237CBA223C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD337534-FD8F-4ABD-B4A7-D4C5A126B393}.Debug|x86.ActiveCfg = Debug|x86
+		{BD337534-FD8F-4ABD-B4A7-D4C5A126B393}.Debug|x86.Build.0 = Debug|x86
+		{BD337534-FD8F-4ABD-B4A7-D4C5A126B393}.Release|x86.ActiveCfg = Release|x86
+		{BD337534-FD8F-4ABD-B4A7-D4C5A126B393}.Release|x86.Build.0 = Release|x86
+		{147DD8C2-DA3F-4E25-8AAA-98134A2F27FB}.Debug|x86.ActiveCfg = Debug|x86
+		{147DD8C2-DA3F-4E25-8AAA-98134A2F27FB}.Release|x86.ActiveCfg = Release|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Debug|x86.ActiveCfg = Debug|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Debug|x86.Build.0 = Debug|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Release|x86.ActiveCfg = Release|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Release|x86.Build.0 = Release|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Debug|x86.ActiveCfg = Debug|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Debug|x86.Build.0 = Debug|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Release|x86.ActiveCfg = Debug|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

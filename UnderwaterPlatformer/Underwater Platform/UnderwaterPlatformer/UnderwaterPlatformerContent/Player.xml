@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.String[]">
+    <Item>Player\WalkRight\PR1.png</Item>
+    <Item>Player\WalkRight\PR2.png</Item>
+    <Item>Player\WalkRight\PR3.png</Item>
+    <Item>Player\WalkRight\PR4.png</Item>
+    <Item>Player\WalkRight\PR5.png</Item>
+    <Item>Player\WalkRight\PR6.png</Item>
+    <Item>Player\WalkRight\PR7.png</Item>
+    <Item>Player\WalkRight\PR8.png</Item>
+    <Item>Player\WalkLeft\PL1.png</Item>
+    <Item>Player\WalkLeft\PL2.png</Item>
+    <Item>Player\WalkLeft\PL3.png</Item>
+    <Item>Player\WalkLeft\PL4.png</Item>
+    <Item>Player\WalkLeft\PL5.png</Item>
+    <Item>Player\WalkLeft\PL6.png</Item>
+    <Item>Player\WalkLeft\PL7.png</Item>
+    <Item>Player\WalkLeft\PL8.png</Item>
+  </Asset>
+</XnaContent>

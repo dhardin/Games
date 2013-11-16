@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.String[]">
+    <Item>Fish\BFS1L.png</Item>
+    <Item>Fish\BFS2L.png</Item>
+    <Item>Fish\BFS3L.png</Item>
+    <Item>Fish\BFS4L.png</Item>
+    <Item>Fish\BFS1R.png</Item>
+    <Item>Fish\BFS2R.png</Item>
+    <Item>Fish\BFS3R.png</Item>
+    <Item>Fish\BFS4R.png</Item>
+  </Asset>
+</XnaContent>
