@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolarRecall", "PolarRecall\PolarRecall\PolarRecall.csproj", "{A6878476-5C77-4832-B56A-4FA6F0CA651A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolarRecallContent", "PolarRecall\PolarRecallContent\PolarRecallContent.contentproj", "{947CFB78-B2B9-4CB8-B72E-8AC2FBC7DB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "..\Engine\Engine\Engine.csproj", "{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPipeline", "..\Engine\SpriteSheetPipeline\SpriteSheetPipeline.csproj", "{25146084-89AA-4A55-8D32-E237CBA223C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6878476-5C77-4832-B56A-4FA6F0CA651A}.Debug|x86.ActiveCfg = Debug|x86
+		{A6878476-5C77-4832-B56A-4FA6F0CA651A}.Debug|x86.Build.0 = Debug|x86
+		{A6878476-5C77-4832-B56A-4FA6F0CA651A}.Release|x86.ActiveCfg = Release|x86
+		{A6878476-5C77-4832-B56A-4FA6F0CA651A}.Release|x86.Build.0 = Release|x86
+		{947CFB78-B2B9-4CB8-B72E-8AC2FBC7DB02}.Debug|x86.ActiveCfg = Debug|x86
+		{947CFB78-B2B9-4CB8-B72E-8AC2FBC7DB02}.Release|x86.ActiveCfg = Release|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Debug|x86.ActiveCfg = Debug|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Debug|x86.Build.0 = Debug|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Release|x86.ActiveCfg = Release|x86
+		{1A0EAFA8-D727-4A42-8A53-1FEBE4BD6CF4}.Release|x86.Build.0 = Release|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Debug|x86.ActiveCfg = Debug|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Debug|x86.Build.0 = Debug|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Release|x86.ActiveCfg = Debug|x86
+		{25146084-89AA-4A55-8D32-E237CBA223C0}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

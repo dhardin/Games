@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.String[]">
+    <Item>Explosion\OutExplodeP1.png</Item>
+    <Item>Explosion\OutExplodeP2.png</Item>
+    <Item>Explosion\OutExplodeP3.png</Item>
+    <Item>Explosion\OutExplodeP4.png</Item>
+    <Item>Explosion\OutExplodeP5.png</Item>
+    <Item>Explosion\OutExplodeP6.png</Item>
+    <Item>Explosion\OutExplodeP7.png</Item>
+    <Item>Explosion\OutExplodeP8.png</Item>
+  </Asset>
+</XnaContent>
